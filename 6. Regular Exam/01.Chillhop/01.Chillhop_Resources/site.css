@@ -1,0 +1,84 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+.container-card {
+    display: flex;
+    border: 0.25em solid black;
+    border-radius: 0.7em;
+    padding: 1.5em 2em;
+    margin: 1em;
+    background-color: #1881B6;
+    width: 53.3em;
+}
+
+article.brand {
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 0.9em;
+    padding-top: 1.2em;
+}
+
+article.title {
+    color: white;
+    font-size: 1.92em;
+    padding-top: 1.25em;
+}
+
+.container-text p.section-text-content {
+    font-size: 0.77em;
+    padding-top: 1.2em;
+    tab-size: 10px;
+    line-height: 2em;
+    width: 37em;
+}
+
+.container-text p.section-text-content:before {
+    content: '';
+    padding-left: 3.2em;
+}
+
+nav.container-nav {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 4.5em;
+    gap: 6em;
+    margin-top: 1em;
+    margin-bottom: 0.7em;
+}
+
+.container-text nav a.class-contacts {
+    background-color: #B6416D;
+    padding: 0.5em 1em;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.65em;
+    border: 1px solid black;
+    border-radius: 0.3em;
+}
+
+.class-learn-more {
+    padding: 0.5em 1em;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.65em;
+    border: 1px solid black;
+    border-radius: 0.3em;
+}
+
+media.logo-image  {
+  padding-left: 1.93em;
+}
+
+media.logo-image img {
+    height: auto;
+    width: 18.3em;
+}

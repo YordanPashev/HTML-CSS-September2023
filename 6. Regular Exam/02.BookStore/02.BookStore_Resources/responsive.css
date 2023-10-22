@@ -1,0 +1,122 @@
+@media (max-width: 600px) {
+    .home-navbar {
+        height: 2em;
+    }
+    .home-navbar1 {
+        display: none;
+    }
+
+    .section-heading-text.Heading-2 {
+        margin: 0;
+        font-size: 1.2em;
+    }
+
+    .section-heading-text1 {
+        font-size: 0.7em;
+    }
+    
+    .home-cards-container {
+        grid-gap: 1em;
+        justify-content: center;
+    }
+
+    .category-card-category-card {
+        gap: 0em;
+        flex: 0 0 46.1%;
+    }
+
+    .category-card-category-card img {
+        width: 100%;
+        height: 100%;
+        aspect-ratio: 1/1;
+    }
+
+    .home-full-width-banner.section-container {
+        flex-direction: column;
+    }
+
+    .home-container06.max-width-container{
+        padding-bottom: 2em;
+    }
+    .max-width-container{
+        padding: 0.6em;
+    }
+
+    .home-container07 {
+        margin-top: 3em;
+    }
+
+    .home-content {
+        padding-top: 2em;
+        padding-bottom: 1em;
+        margin-bottom: 0em;
+        width: 100%;
+    }
+
+    .section-heading-section-heading {
+        margin-bottom: 2em;
+    }
+
+    .home-main {
+        padding-bottom: 2em;
+    }
+
+    .blog-post-card-text {
+        font-size: 1em;
+    }
+
+    .blog-post-card-text1 {
+        font-size: 0.75em;
+    }
+
+    .button {
+        font-size: 0.9em;
+        padding: 0.6em 1em;
+    }
+
+    .home-text23 {
+        margin-bottom: 0;
+        font-size: 0.65em;
+    }
+
+    .home-text30 {
+        padding: 0 1em;
+        font-size: 0.68em;
+        width: 100%;
+    }
+
+    .blog-post-card-text {
+        margin-top: 0.5em;
+        margin-bottom: 0.3em;
+    }
+
+    .button {
+        padding: 0.01;
+    }
+
+    .home-image6 {
+        width: 100%;
+    }
+
+    .blog-post-card-container {
+        padding-top: 1em;
+        padding-bottom: 2em;
+    }
+
+    .home-btn.button{
+        margin-bottom: 2em;
+    }
+
+    .home-footer1 {
+        flex-direction: column-reverse;
+        padding-top: 2em;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-bottom: 0.5em;
+        gap: 2em;
+    }
+
+    .home-links-container{
+        flex-direction: column;
+    }
+}
