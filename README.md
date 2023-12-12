@@ -9,3 +9,5 @@
 [**4. CSS Layout Flexbox**](https://github.com/YordanPashev/HTML-CSS-September2023/tree/main/4.%20CSS%20Layout%20Flexbox/Lab)
 
 [**5. Working with Forms**](https://github.com/YordanPashev/HTML-CSS-September2023/tree/main/5.%20Working%20with%20Forms/Lab)
+
+[**6. Regular Exam**](https://github.com/YordanPashev/HTML-CSS-September2023/tree/main/6.%20Regular%20Exam)
